@@ -8,7 +8,6 @@ A front-end web application that replicates the core functionalities of YouTube.
 - [Installation](#%EF%B8%8F-installation)  
 - [Usage](#%EF%B8%8F-usage)  
 - [Tech Stack](#%EF%B8%8F-tech-stack)  
-- [Screenshots](#screenshots)  
 - [Contributing](#contributing)  
 - [Contact](#contact)  
 
