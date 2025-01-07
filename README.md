@@ -14,7 +14,6 @@ A front-end web application that replicates the core functionalities of YouTube.
 ## 🌟 Features  
 
 - **🎥 Video Playback:** Watch videos seamlessly with high-quality streaming.  
-- **🔍 Search Functionality:** Find videos quickly using the search bar.  
 - **📱 Responsive Design:** Optimized for both desktop and mobile devices.  
 - **⭐ Trending Videos:** Browse popular and trending content.  
 
@@ -55,6 +54,7 @@ To run this blog locally:
 1. Clone the repository:
    git clone https://github.com/Omkeswani27/YTClone.git
 2. Navigate to the project directory:
+   ```bash
    cd YTClone
 
 ## Contact
